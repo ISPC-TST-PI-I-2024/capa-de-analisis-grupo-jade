@@ -4,7 +4,7 @@
 
 ## Carátula del ISPC
 
-![alt text](pi-1.png)
+![alt text](image.png)
 
 ## Datos del Docente y de la Materia
 ### Docente- Vera Cristian Gonzalo
