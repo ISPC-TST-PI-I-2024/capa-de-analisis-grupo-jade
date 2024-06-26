@@ -5,9 +5,9 @@ def get_db_connection():
     if 'db' not in g:
         g.db = mysql.connector.connect(
             host="localhost",
-            user="YOUR_DB_USER",  # Cambiar para cada grupo
-            password="YOUR_DB_PASSWORD",  # Cambiar para cada grupo
-            database="YOUR_DB_NAME"  # Cambiar para cada grupo
+            user="root",
+            password="root",
+            database="iot_proyect"
         )
     return g.db
 
