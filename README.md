@@ -4,19 +4,26 @@
 
 ## Carátula del ISPC
 
----
+![alt text](pi-1.png)
 
 ## Datos del Docente y de la Materia
+### Docente- Vera Cristian Gonzalo
 
----
+### Materia- Proyecto Integrador (PI)
+##
 
 ## Datos del Grupo de Trabajo y sus Integrantes
+### Tiziano Adrian Paez - [GitHub tpaez](https://github.com/tpaez)
+### Romina Huk - [GitHub RoHu17](https://github.com/RoHu17)
+### Paola Natalia Alejandra Pantoja - [GitHub PaolaaPantoja](https://github.com/PaolaaPantoja)
+### Claudio Nicolas Roldan - [GitHub ClaudioNR22](https://github.com/ClaudioNR22)
+### Marcos Bordón Rios - [GitHub Marcos-BR-03](https://github.com/Marcos-BR-03)
 
----
+
+##
 
 ## Datos del Proyecto
-
----
+### Monitoreo de Consumo Energético: Diseño de un dispositivo IoT para monitorear y reportar el consumo de energía en tiempo real.
 
 ## Introducción
 
